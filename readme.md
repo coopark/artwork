@@ -1,18 +1,15 @@
-<a align="center" href="https://copark.space"><img width="100%" src="https://i.imgur.com/FLkKlzD.png" alt="Copark - Parking made easy in any house near you."></a>
+<a align="center" href="https://github.com/coopark/coopark"><img width="100%" src="https://i.imgur.com/FLkKlzD.png" alt="Coopark - Parking has never been easier."></a>
 
-> Parking made easy in any house near you.
+> Parking has never been easier.
 
+## Why it's awesome
 
-## Table of Contents
-
-- [Getting Started](https://copark.space/#getting-started)
-
+Discover nearby parking with location, distance, and price. Compare, save, book, and pay with just all one click. Parking has never been easier.
 
 ## Contributing
 
-Want to contribute? Follow these [recommendations](.github/contributing.md).
-
+Want to contribute? Follow these [recommendations](https://github.com/coopark/coopark/contribute).
 
 ## License
 
-Designed with ♥ and licensed under the [MIT License](license).
+Designed with ♥ by [CJ Patoilo](https://twitter.com/cjpatoilo). Released under [MIT License](https://cjpatoilo.com/license).
